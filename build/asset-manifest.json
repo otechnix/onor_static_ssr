@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.886bf4a3.chunk.css",
-    "main.js": "/static/js/main.1352ce60.chunk.js",
-    "main.js.map": "/static/js/main.1352ce60.chunk.js.map",
+    "main.css": "/static/css/main.0252ad7f.chunk.css",
+    "main.js": "/static/js/main.4d9570a5.chunk.js",
+    "main.js.map": "/static/js/main.4d9570a5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f6eb240e.js",
     "runtime-main.js.map": "/static/js/runtime-main.f6eb240e.js.map",
     "static/css/2.97a42ee0.chunk.css": "/static/css/2.97a42ee0.chunk.css",
-    "static/js/2.10e54560.chunk.js": "/static/js/2.10e54560.chunk.js",
-    "static/js/2.10e54560.chunk.js.map": "/static/js/2.10e54560.chunk.js.map",
+    "static/js/2.0beef325.chunk.js": "/static/js/2.0beef325.chunk.js",
+    "static/js/2.0beef325.chunk.js.map": "/static/js/2.0beef325.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.66a1d42697c1724812b89cdfeaa64437.js": "/precache-manifest.66a1d42697c1724812b89cdfeaa64437.js",
+    "precache-manifest.6d4c494d3ec3f0326407c0afe95d1ab6.js": "/precache-manifest.6d4c494d3ec3f0326407c0afe95d1ab6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.97a42ee0.chunk.css.map": "/static/css/2.97a42ee0.chunk.css.map",
-    "static/css/main.886bf4a3.chunk.css.map": "/static/css/main.886bf4a3.chunk.css.map",
-    "static/js/2.10e54560.chunk.js.LICENSE.txt": "/static/js/2.10e54560.chunk.js.LICENSE.txt",
+    "static/css/main.0252ad7f.chunk.css.map": "/static/css/main.0252ad7f.chunk.css.map",
+    "static/js/2.0beef325.chunk.js.LICENSE.txt": "/static/js/2.0beef325.chunk.js.LICENSE.txt",
     "static/media/Profile.scss": "/static/media/Ratyadu.7f336439.woff",
     "static/media/aboutus.png": "/static/media/aboutus.84d9b8bc.png",
     "static/media/banner.png": "/static/media/banner.33f749ae.png",
@@ -27,7 +27,7 @@
     "static/media/email.svg": "/static/media/email.d38c263e.svg",
     "static/media/facebook.svg": "/static/media/facebook.9b1f6829.svg",
     "static/media/file.svg": "/static/media/file.4f040d0b.svg",
-    "static/media/free-consultation.png": "/static/media/free-consultation.c317381b.png",
+    "static/media/free-consultation.png": "/static/media/free-consultation.37a2ccab.png",
     "static/media/going-up-animate.svg": "/static/media/going-up-animate.7426734c.svg",
     "static/media/google.svg": "/static/media/google.02d31de0.svg",
     "static/media/headset.svg": "/static/media/headset.11ffc43d.svg",
@@ -59,8 +59,8 @@
   "entrypoints": [
     "static/js/runtime-main.f6eb240e.js",
     "static/css/2.97a42ee0.chunk.css",
-    "static/js/2.10e54560.chunk.js",
-    "static/css/main.886bf4a3.chunk.css",
-    "static/js/main.1352ce60.chunk.js"
+    "static/js/2.0beef325.chunk.js",
+    "static/css/main.0252ad7f.chunk.css",
+    "static/js/main.4d9570a5.chunk.js"
   ]
 }
